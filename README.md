@@ -4,26 +4,26 @@ This project is a Java application that allows users to experiment with various 
 Project Structure
 The project is organized in the com.example.cryptographykursovaya package and contains the following classes:
 
--DiffieHellmanController
--ElGamalController
--EvklidController
--FastModPowController
--FeistelNetworkController
--HashController
--HelloApplication
--HelloController
--LoggerUtil
--RSAController
--ShamirController
--SieveOfEratosthenesController
+- DiffieHellmanController
+- ElGamalController
+- EvklidController
+- FastModPowController
+- FeistelNetworkController
+- HashController
+- HelloApplication
+- HelloController
+- LoggerUtil
+- RSAController
+- ShamirController
+- SieveOfEratosthenesController
 
 ## Description
 This application provides a user-friendly interface for testing and understanding different cryptographic algorithms. Users can interact with the GUI to see how various cryptographic methods work in practice.
 Technologies Used
 
-Java 19
-JavaFX 19 (for the graphical user interface)
-Java Util
+- Java 19
+- JavaFX 19 (for the graphical user interface)
+- Java Util
 
 ## Installation and Setup
 
@@ -36,21 +36,21 @@ Replace path with the actual path to your JavaFX SDK on your system.
 ## Running the Application
 To run the application:
 
-Open the project in your preferred Java IDE.
-Ensure all dependencies are properly loaded.
-Run the HelloApplication class, which serves as the entry point for the JavaFX application.
+- Open the project in your preferred Java IDE.
+- Ensure all dependencies are properly loaded.
+- Run the HelloApplication class, which serves as the entry point for the JavaFX application.
 
 ## Features
 The application demonstrates the following cryptographic algorithms and concepts:
 
-Diffie-Hellman key exchange
-ElGamal encryption
-Euclidean algorithm + General Euclidean algorithm
-Fast modular exponentiation
-Feistel network
-Hash functions
-RSA encryption
-Shamir's secret sharing
-Sieve of Eratosthenes
+- Diffie-Hellman key exchange
+- ElGamal encryption
+- Euclidean algorithm + General Euclidean algorithm
+- Fast modular exponentiation
+- Feistel network
+- Hash functions
+- RSA encryption
+- Shamir's secret sharing
+- Sieve of Eratosthenes
 
 Each algorithm has its own controller class, allowing users to input data and see the results of the cryptographic operations.
