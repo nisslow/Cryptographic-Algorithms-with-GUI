@@ -1,6 +1,5 @@
 # Cryptographic-Algorithms-with-GUI
 
-## Cryptography Algorithm Demonstration
 This project is a Java application that allows users to experiment with various cryptographic algorithms through a graphical user interface (GUI).
 Project Structure
 The project is organized in the com.example.cryptographykursovaya package and contains the following classes:
