@@ -4,18 +4,18 @@ This project is a Java application that allows users to experiment with various 
 Project Structure
 The project is organized in the com.example.cryptographykursovaya package and contains the following classes:
 
-DiffieHellmanController
-ElGamalController
-EvklidController
-FastModPowController
-FeistelNetworkController
-HashController
-HelloApplication
-HelloController
-LoggerUtil
-RSAController
-ShamirController
-SieveOfEratosthenesController
+-DiffieHellmanController
+-ElGamalController
+-EvklidController
+-FastModPowController
+-FeistelNetworkController
+-HashController
+-HelloApplication
+-HelloController
+-LoggerUtil
+-RSAController
+-ShamirController
+-SieveOfEratosthenesController
 
 ## Description
 This application provides a user-friendly interface for testing and understanding different cryptographic algorithms. Users can interact with the GUI to see how various cryptographic methods work in practice.
