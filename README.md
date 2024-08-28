@@ -27,11 +27,11 @@ Technologies Used
 
 ## Installation and Setup
 
-Ensure you have Java 19 installed on your system.
-The project uses Maven for dependency management. JavaFX 19 will be automatically downloaded and included in the project.
-When setting up the project in your IDE, add the following VM options:
-Copy--module-path "path\openjfx-19_windows-x64_bin-sdk\javafx-sdk-19\lib" --add-modules javafx.controls,javafx.fxml
-Replace path with the actual path to your JavaFX SDK on your system.
+- Ensure you have Java 19 installed on your system.
+- The project uses Maven for dependency management. JavaFX 19 will be automatically downloaded and included in the project.
+- When setting up the project in your IDE, add the following VM options:
+- Copy--module-path "path\openjfx-19_windows-x64_bin-sdk\javafx-sdk-19\lib" --add-modules javafx.controls,javafx.fxml
+- Replace path with the actual path to your JavaFX SDK on your system.
 
 ## Running the Application
 To run the application:
